@@ -1,0 +1,51 @@
+{
+    "name": "Canales Elias",
+    "author":" Comentario uno de lista web",
+    "url": "https://elikito.github.io/assets/wp/wp.w3u",
+    "groups": [
+        {
+            "name": "Canales Elias",
+            "image": "https://es.wikipedia.org/wiki/Angular_(framework)#/media/Archivo:Angular_full_color_logo.svg",
+            
+            "stations":[
+                {
+                    "name": "Juventus - Genoa",
+                   "image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+                 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/38.ts",
+                   "userAgent": "cp_9191"
+                },
+                {
+                    "name": "Schalke04 - Augsburgo",
+                    "image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+                      "url": "http://uhdstreams.club/hd/ch2.php",
+                    "isHost": "true"
+                },
+                {
+                    "name": "ESPN2-Argentina",
+                    "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
+                     "url": "https://wigistream.to/embed/xqnp3kvij9pvoub",
+                     "referer" : "http://lacalleochotv.org/magu/redd/espn2arg.html",
+                     "isHost":"true"
+                },
+                {
+                    "name": "La liga Bar",
+                      "image": "https://i.ibb.co/tZRyTb6/tv-bar.gif",
+                      "url": "https://ww.soccer24hd.com/channels/num/12/LA-LiGA-TV.html",
+                    "isHost": "true"
+                }, {
+                    "name": "La liga Bar",
+                    "image": "https://i.ibb.co/tZRyTb6/tv-bar.gif",
+                    "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts",
+                    "userAgent": "cp_9191"
+                },
+                {
+                    "name": "Panamericana TV",
+                    "image": "http://1.bp.blogspot.com/-iFaWmtZcAZI/URbZd3lt8HI/AAAAAAAADAI/7m3JVX3GD4M/s1600/logopanamric.jpg",
+                    "url": "https://www.dailymotion.com/embed/video/x18w5up?syndication=153375&autoPlay=1",
+    	            "referer": "http://09stream.com/canales/",
+                    "embed": true
+                }
+            ]
+        }
+	]
+}
